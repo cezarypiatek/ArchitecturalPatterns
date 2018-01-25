@@ -7,3 +7,4 @@ https://www.future-processing.pl/blog/cqrs-simple-architecture/
 
 ## ES
 https://github.com/jasonmitchell/event-store-samples
+https://github.com/yreynhout/AggregateSource
