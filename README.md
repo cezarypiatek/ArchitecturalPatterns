@@ -1,4 +1,4 @@
-# ArchitecturalPatterns
+# Architectural Patterns
 
 ## CQRS
 https://www.future-processing.pl/blog/cqrs-simple-architecture/
