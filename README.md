@@ -1,0 +1,7 @@
+#ArchitecturalPatterns
+
+## CQRS
+
+## DDD
+
+## ES
