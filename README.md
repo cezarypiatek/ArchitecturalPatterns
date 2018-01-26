@@ -4,6 +4,7 @@
 - https://www.future-processing.pl/blog/cqrs-simple-architecture/
 
 ## DDD
+- https://www.youtube.com/watch?v=lE6Hxz4yomA
 
 ## ES
 - https://github.com/jasonmitchell/event-store-samples
