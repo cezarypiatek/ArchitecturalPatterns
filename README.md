@@ -5,6 +5,7 @@
 
 ## DDD
 - https://www.youtube.com/watch?v=lE6Hxz4yomA
+- http://practical-ddd.blogspot.co.uk/2012/07/designing-aggregates.html
 
 ## ES
 - https://github.com/jasonmitchell/event-store-samples
