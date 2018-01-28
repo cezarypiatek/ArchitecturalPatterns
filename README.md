@@ -19,3 +19,4 @@
 ## Combined
  - https://gist.github.com/SzymonPobiega/5220595
  - https://seabites.wordpress.com
+ - http://blog.jonathanoliver.com
