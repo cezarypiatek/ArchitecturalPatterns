@@ -2,6 +2,7 @@
 
 ## CQRS
 - https://www.future-processing.pl/blog/cqrs-simple-architecture/
+- https://cqrs.wordpress.com/documents/task-based-ui/
 
 ## DDD
 - https://www.youtube.com/watch?v=lE6Hxz4yomA
