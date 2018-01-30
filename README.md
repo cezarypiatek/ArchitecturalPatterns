@@ -24,3 +24,4 @@
  - https://seabites.wordpress.com
  - http://blog.jonathanoliver.com
  - http://danielwhittaker.me/
+ - https://www.exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/?utm_medium=social&utm_campaign=postplanner&utm_source=twitter.com
