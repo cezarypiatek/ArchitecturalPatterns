@@ -5,6 +5,7 @@
 - https://cqrs.wordpress.com
 - http://danielwhittaker.me/2016/04/20/how-to-validate-commands-in-a-cqrs-application/
 - https://github.com/tpierrain/CQRS
+- http://radblog.pl/2018/01/08/cqrs-third-step-synchronous-read-model/
 
 ## DDD
 - https://www.youtube.com/watch?v=lE6Hxz4yomA
