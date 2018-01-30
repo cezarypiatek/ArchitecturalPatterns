@@ -4,6 +4,7 @@
 - https://www.future-processing.pl/blog/cqrs-simple-architecture/
 - https://cqrs.wordpress.com
 - http://danielwhittaker.me/2016/04/20/how-to-validate-commands-in-a-cqrs-application/
+- https://github.com/tpierrain/CQRS
 
 ## DDD
 - https://www.youtube.com/watch?v=lE6Hxz4yomA
