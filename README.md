@@ -19,6 +19,7 @@
 - https://lostechies.com/gabrielschenker/2015/07/13/event-sourcing-applied-the-repository/
 - http://thecqrskitchen.codeplex.com/
 - https://www.horsdal-consult.dk/2018/01/event-sourced-aggregates-part-6-smarter.html
+- https://github.com/SQLStreamStore/SQLStreamStore
 
 
 ## Combined
