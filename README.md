@@ -1,33 +1,35 @@
 # Architectural Patterns
 
 ## CQRS
-- https://www.future-processing.pl/blog/cqrs-simple-architecture/
-- https://cqrs.wordpress.com
-- http://danielwhittaker.me/2016/04/20/how-to-validate-commands-in-a-cqrs-application/
-- https://github.com/tpierrain/CQRS
-- http://radblog.pl/2018/01/08/cqrs-third-step-synchronous-read-model/
+- [CQRS – Simple architecture](https://www.future-processing.pl/blog/cqrs-simple-architecture/)
+- [CQRS Did you mean CARS?](https://cqrs.wordpress.com)
+- [How To Validate Commands in a CQRS Application](http://danielwhittaker.me/2016/04/20/how-to-validate-commands-in-a-cqrs-application/)
+- [A simple project to explain CQRS during a live coding session at MS experiences'16](https://github.com/tpierrain/CQRS)
+- [CQRS – Third step – Synchronous read model](http://radblog.pl/2018/01/08/cqrs-third-step-synchronous-read-model/)
 
 ## DDD
-- https://www.youtube.com/watch?v=lE6Hxz4yomA
-- http://practical-ddd.blogspot.co.uk/2012/07/designing-aggregates.html
-- https://github.com/stoveproject/Stove
+- [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
+- [Designing Aggregates](http://practical-ddd.blogspot.co.uk/2012/07/designing-aggregates.html)
+- [Domain Driven Design oriented application framework, meets CRUD needs](https://github.com/stoveproject/Stove)
 
 ## ES
-- https://github.com/jasonmitchell/event-store-samples
-- https://github.com/yreynhout/AggregateSource
-- https://www.youtube.com/watch?v=FaAEvYf5-PY
-- https://www.youtube.com/watch?v=8JKjvY4etTY
-- https://lostechies.com/gabrielschenker/2015/07/13/event-sourcing-applied-the-repository/
-- http://thecqrskitchen.codeplex.com/
-- https://www.horsdal-consult.dk/2018/01/event-sourced-aggregates-part-6-smarter.html
-- https://github.com/SQLStreamStore/SQLStreamStore
-- https://news.ycombinator.com/item?id=13339972
-- http://files.movereem.nl/2017saner-eventsourcing.pdf
+- [event-store-samples](https://github.com/jasonmitchell/event-store-samples)
+- [lightweight infrastructure for doing eventsourcing using aggregates](https://github.com/yreynhout/AggregateSource)
+- [Inventory Management with Event Sourcing \[C#/.NET\]](https://www.youtube.com/watch?v=FaAEvYf5-PY)
+- [GOTO 2014 • Event Sourcing • Greg Young](https://www.youtube.com/watch?v=8JKjvY4etTY)
+- [Event Sourcing applied – the Repository](https://lostechies.com/gabrielschenker/2015/07/13/event-sourcing-applied-the-repository/)
+- [The CQRS Kitchen is a .NET example application that demonstrates how to implement a CQRS / Event Sourcing application with the .NET Framework](http://thecqrskitchen.codeplex.com/)
+- [Event Sourced Aggregates Part 6: Smarter Events](https://www.horsdal-consult.dk/2018/01/event-sourced-aggregates-part-6-smarter.html)
+- [Stream Store library targeting SQL based implementations for .NET](https://github.com/SQLStreamStore/SQLStreamStore)
+- [I have worked on, or cleaned up, 4 different CQRS/ES projects. They have all failed.](https://news.ycombinator.com/item?id=13339972)
+- [The Dark Side of Event Sourcing:
+Managing Data Conversion](http://files.movereem.nl/2017saner-eventsourcing.pdf)
 
 
 ## Combined
- - https://gist.github.com/SzymonPobiega/5220595
- - https://seabites.wordpress.com
- - http://blog.jonathanoliver.com
- - http://danielwhittaker.me/
- - https://www.exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/?utm_medium=social&utm_campaign=postplanner&utm_source=twitter.com
+ - [DDD/CQRS/ES/Architecture videos](https://gist.github.com/SzymonPobiega/5220595)
+ - [The journeylism of @yreynhoutOn CQRS, DDD(D), ES, …](https://seabites.wordpress.com)
+ - [Jonathan Oliver
+Eventually Consistent, Fully Distributed](http://blog.jonathanoliver.com)
+ - [WANT TO LEARN CQRS AND EVENT SOURCING?](http://danielwhittaker.me/)
+ - [Real-World CQRS/ES with ASP.NET and Redis Part 1 - Overview](https://www.exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/?utm_medium=social&utm_campaign=postplanner&utm_source=twitter.com)
