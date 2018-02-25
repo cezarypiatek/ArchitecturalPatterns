@@ -21,6 +21,8 @@
 - http://thecqrskitchen.codeplex.com/
 - https://www.horsdal-consult.dk/2018/01/event-sourced-aggregates-part-6-smarter.html
 - https://github.com/SQLStreamStore/SQLStreamStore
+- https://news.ycombinator.com/item?id=13339972
+- http://files.movereem.nl/2017saner-eventsourcing.pdf
 
 
 ## Combined
