@@ -13,6 +13,7 @@
 - [Domain Driven Design oriented application framework, meets CRUD needs](https://github.com/stoveproject/Stove)
 - [The Two Sides of Domain-Driven Design (DDD)](https://www.diffen.com/difference/Strategy_vs_Tactic)
 - [DDD Strategic Patterns: How To Define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
+- [Design in the small - Yves Reynhout - KanDDDinsky 2017](https://www.youtube.com/watch?v=3iLW4puXHvc)
 
 ## ES
 - [event-store-samples](https://github.com/jasonmitchell/event-store-samples)
