@@ -14,6 +14,9 @@
 - [The Two Sides of Domain-Driven Design (DDD)](https://www.diffen.com/difference/Strategy_vs_Tactic)
 - [DDD Strategic Patterns: How To Define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
 - [Design in the small - Yves Reynhout - KanDDDinsky 2017](https://www.youtube.com/watch?v=3iLW4puXHvc)
+- [DDD Decoded - The Aggregate and Aggregate Root Explained \(Part 1\)](http://blog.sapiensworks.com/post/2016/07/14/DDD-Aggregate-Decoded-1)
+- [DDD Decoded - Domain Relationships Explained](http://blog.sapiensworks.com/post/2016/08/24/DDD-Relationships)
+- [Identifying An Aggregate Is Not Object Oriented Design](http://blog.sapiensworks.com/post/2018/01/08/DDD-Aggregate-groups-behaviour-not-data)
 
 ## ES
 - [event-store-samples](https://github.com/jasonmitchell/event-store-samples)
