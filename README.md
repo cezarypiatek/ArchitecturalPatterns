@@ -18,7 +18,7 @@
 - [DDD Decoded - The Aggregate and Aggregate Root Explained \(Part 2\)](http://blog.sapiensworks.com/post/2016/07/14/DDD-Aggregate-Decoded-2)
 - [DDD Decoded - Domain Relationships Explained](http://blog.sapiensworks.com/post/2016/08/24/DDD-Relationships)
 - [Identifying An Aggregate Is Not Object Oriented Design](http://blog.sapiensworks.com/post/2018/01/08/DDD-Aggregate-groups-behaviour-not-data)
-
+- [DDD Community](http://dddcommunity.org/)
 
 ## ES
 - [event-store-samples](https://github.com/jasonmitchell/event-store-samples)
