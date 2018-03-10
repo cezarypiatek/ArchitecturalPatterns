@@ -22,6 +22,7 @@
 - [Rebuilding guardian.co.uk With DDD](https://www.infoq.com/presentations/rebuild-guardian-ddd-wills)
 - [7 Reasons Why DDD Projects Fail](https://vimeo.com/13824218)
 - [Effective Aggregate Design](https://vaughnvernon.co/?p=838)
+- [Effective Aggregate Design Part III - DDD Denver Meetup](https://vimeo.com/36884903)
 
 ## ES
 - [event-store-samples](https://github.com/jasonmitchell/event-store-samples)
