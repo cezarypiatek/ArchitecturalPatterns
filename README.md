@@ -20,6 +20,7 @@
 - [Identifying An Aggregate Is Not Object Oriented Design](http://blog.sapiensworks.com/post/2018/01/08/DDD-Aggregate-groups-behaviour-not-data)
 - [DDD Community](http://dddcommunity.org/)
 - [Rebuilding guardian.co.uk With DDD](https://www.infoq.com/presentations/rebuild-guardian-ddd-wills)
+- [7 Reasons Why DDD Projects Fail](https://vimeo.com/13824218)
 
 ## ES
 - [event-store-samples](https://github.com/jasonmitchell/event-store-samples)
