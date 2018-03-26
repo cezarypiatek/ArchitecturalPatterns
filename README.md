@@ -25,6 +25,7 @@
 - [Effective Aggregate Design Part III - DDD Denver Meetup](https://vimeo.com/36884903)
 
 ## ES
+- [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 - [event-store-samples](https://github.com/jasonmitchell/event-store-samples)
 - [lightweight infrastructure for doing eventsourcing using aggregates](https://github.com/yreynhout/AggregateSource)
 - [Inventory Management with Event Sourcing \[C#/.NET\]](https://www.youtube.com/watch?v=FaAEvYf5-PY)
