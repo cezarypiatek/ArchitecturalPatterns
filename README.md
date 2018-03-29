@@ -37,6 +37,7 @@
 - [I have worked on, or cleaned up, 4 different CQRS/ES projects. They have all failed.](https://news.ycombinator.com/item?id=13339972)
 - [The Dark Side of Event Sourcing:
 Managing Data Conversion](http://files.movereem.nl/2017saner-eventsourcing.pdf)
+- [Example of Event Sourcing in .NET Core](https://github.com/oskardudycz/EventSourcing.NetCore)
 
 
 ## Combined
