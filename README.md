@@ -23,6 +23,7 @@
 - [7 Reasons Why DDD Projects Fail](https://vimeo.com/13824218)
 - [Effective Aggregate Design](https://vaughnvernon.co/?p=838)
 - [Effective Aggregate Design Part III - DDD Denver Meetup](https://vimeo.com/36884903)
+- [Building Domain Driven Architecture in .NET](https://amanagrawal.blog/2017/08/04/building-domain-driven-architecture-in-net-part-1-overview/)
 
 ## ES
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
