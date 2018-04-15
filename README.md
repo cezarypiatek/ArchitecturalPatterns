@@ -25,6 +25,8 @@
 - [Effective Aggregate Design](https://vaughnvernon.co/?p=838)
 - [Effective Aggregate Design Part III - DDD Denver Meetup](https://vimeo.com/36884903)
 - [Building Domain Driven Architecture in .NET](https://amanagrawal.blog/2017/08/04/building-domain-driven-architecture-in-net-part-1-overview/)
+- [DDD related blogposts from Lev Gorodinski](http://gorodinski.com/)
+- [DDD related blogposts from thinkbeforecoding](https://thinkbeforecoding.com/category/Domain-Driven-Desing)
 
 ## ES
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
@@ -40,7 +42,8 @@
 - [The Dark Side of Event Sourcing:
 Managing Data Conversion](http://files.movereem.nl/2017saner-eventsourcing.pdf)
 - [Example of Event Sourcing in .NET Core](https://github.com/oskardudycz/EventSourcing.NetCore)
-
+- [Martin Fowler about Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [Event Sourcing with Akka](https://doc.akka.io/docs/akka/snapshot/persistence.html?language=scala)
 
 ## Combined
  - [DDD/CQRS/ES/Architecture videos](https://gist.github.com/SzymonPobiega/5220595)
