@@ -6,6 +6,7 @@
 - [How To Validate Commands in a CQRS Application](http://danielwhittaker.me/2016/04/20/how-to-validate-commands-in-a-cqrs-application/)
 - [A simple project to explain CQRS during a live coding session at MS experiences'16](https://github.com/tpierrain/CQRS)
 - [CQRS – Third step – Synchronous read model](http://radblog.pl/2018/01/08/cqrs-third-step-synchronous-read-model/)
+- [Ncqrs Framework - The CQRS Framework for .NET](https://github.com/pjvds/ncqrs)
 
 ## DDD
 - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
