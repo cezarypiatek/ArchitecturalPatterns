@@ -27,6 +27,7 @@
 - [Building Domain Driven Architecture in .NET](https://amanagrawal.blog/2017/08/04/building-domain-driven-architecture-in-net-part-1-overview/)
 - [DDD related blogposts from Lev Gorodinski](http://gorodinski.com/)
 - [DDD related blogposts from thinkbeforecoding](https://thinkbeforecoding.com/category/Domain-Driven-Desing)
+- [The pillars of Domain Driven Design - Marco Heimeshoff](https://www.youtube.com/watch?list=PLoGBNJiQoqRDSMznObXnqyq5HbOqLucTz&time_continue=1&v=FmJ6YMW92wA)
 
 ## ES
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
