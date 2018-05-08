@@ -3,6 +3,8 @@
 ## CQRS
 - [CQRS – Simple architecture](https://www.future-processing.pl/blog/cqrs-simple-architecture/)
 - [CQRS Did you mean CARS?](https://cqrs.wordpress.com)
+- [Clarified CQRS](http://udidahan.com/2009/12/09/clarified-cqrs/)
+- [CQRS Documents by Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
 - [How To Validate Commands in a CQRS Application](http://danielwhittaker.me/2016/04/20/how-to-validate-commands-in-a-cqrs-application/)
 - [A simple project to explain CQRS during a live coding session at MS experiences'16](https://github.com/tpierrain/CQRS)
 - [CQRS – Third step – Synchronous read model](http://radblog.pl/2018/01/08/cqrs-third-step-synchronous-read-model/)
@@ -32,6 +34,7 @@
 
 ## ES
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
+- [Why use Event Sourcing?](http://codebetter.com/gregyoung/2010/02/20/why-use-event-sourcing/)
 - [event-store-samples](https://github.com/jasonmitchell/event-store-samples)
 - [lightweight infrastructure for doing eventsourcing using aggregates](https://github.com/yreynhout/AggregateSource)
 - [Inventory Management with Event Sourcing \[C#/.NET\]](https://www.youtube.com/watch?v=FaAEvYf5-PY)
