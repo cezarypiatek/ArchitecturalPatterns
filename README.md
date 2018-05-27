@@ -32,6 +32,7 @@
 - [The pillars of Domain Driven Design - Marco Heimeshoff](https://www.youtube.com/watch?list=PLoGBNJiQoqRDSMznObXnqyq5HbOqLucTz&time_continue=1&v=FmJ6YMW92wA)
 - [The Cynefin Framework](https://www.youtube.com/watch?time_continue=165&v=N7oz366X0-8)
 - [Reactive DDD with Akka](http://pkaczor.blogspot.com/2014/04/reactive-ddd-with-akka.html)
+- [DDDwithActors](https://github.com/VaughnVernon/DDDwithActors)
 
 ## ES
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
