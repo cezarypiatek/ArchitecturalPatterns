@@ -35,6 +35,9 @@
 - [DDDwithActors](https://github.com/VaughnVernon/DDDwithActors)
 
 ## ES
+- [A better domain events pattern](https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/)
+- [Domain Events – Salvation](http://udidahan.com/2009/06/14/domain-events-salvation/)
+- [Don't publish Domain Events, return them!](https://blog.jayway.com/2013/06/20/dont-publish-domain-events-return-them/)
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 - [Why use Event Sourcing?](http://codebetter.com/gregyoung/2010/02/20/why-use-event-sourcing/)
 - [event-store-samples](https://github.com/jasonmitchell/event-store-samples)
