@@ -33,6 +33,7 @@
 - [The Cynefin Framework](https://www.youtube.com/watch?time_continue=165&v=N7oz366X0-8)
 - [Reactive DDD with Akka](http://pkaczor.blogspot.com/2014/04/reactive-ddd-with-akka.html)
 - [DDDwithActors](https://github.com/VaughnVernon/DDDwithActors)
+- [EF Core 2.1 vs NHibernate 5.1: DDD perspective](https://enterprisecraftsmanship.com/2018/06/13/ef-core-vs-nhibernate-ddd-perspective/)
 
 ## ES
 - [A better domain events pattern](https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/)
