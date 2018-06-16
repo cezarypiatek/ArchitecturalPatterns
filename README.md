@@ -34,6 +34,7 @@
 - [Reactive DDD with Akka](http://pkaczor.blogspot.com/2014/04/reactive-ddd-with-akka.html)
 - [DDDwithActors](https://github.com/VaughnVernon/DDDwithActors)
 - [EF Core 2.1 vs NHibernate 5.1: DDD perspective](https://enterprisecraftsmanship.com/2018/06/13/ef-core-vs-nhibernate-ddd-perspective/)
+- [The missing, complete example of Domain-Driven Design enterprise application backed by Spring stack](https://github.com/ddd-by-examples/factory)
 
 ## ES
 - [A better domain events pattern](https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/)
@@ -64,3 +65,4 @@ Managing Data Conversion](http://files.movereem.nl/2017saner-eventsourcing.pdf)
 Eventually Consistent, Fully Distributed](http://blog.jonathanoliver.com)
  - [WANT TO LEARN CQRS AND EVENT SOURCING?](http://danielwhittaker.me/)
  - [Real-World CQRS/ES with ASP.NET and Redis Part 1 - Overview](https://www.exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/?utm_medium=social&utm_campaign=postplanner&utm_source=twitter.com)
+ - [Sample ES/CQRS application](https://github.com/ddd-by-examples/event-source-cqrs-sample)
