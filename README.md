@@ -35,6 +35,7 @@
 - [DDDwithActors](https://github.com/VaughnVernon/DDDwithActors)
 - [EF Core 2.1 vs NHibernate 5.1: DDD perspective](https://enterprisecraftsmanship.com/2018/06/13/ef-core-vs-nhibernate-ddd-perspective/)
 - [The missing, complete example of Domain-Driven Design enterprise application backed by Spring stack](https://github.com/ddd-by-examples/factory)
+- [Distill the Core Domain from Your Legacy App - Thomas Pierrain and Bruno Boucard](https://www.youtube.com/watch?v=F3DV9YDeA6Q)
 
 ## ES
 - [A better domain events pattern](https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/)
