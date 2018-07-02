@@ -58,6 +58,7 @@ Managing Data Conversion](http://files.movereem.nl/2017saner-eventsourcing.pdf)
 - [Martin Fowler about Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 - [Event Sourcing with Akka](https://doc.akka.io/docs/akka/snapshot/persistence.html?language=scala)
 - [Versioning in an Event Sourced System](https://leanpub.com/esversioning/read#leanpub-auto-weak-schema)
+- [.NET Event Sourcing](https://github.com/elliotritchie/NES)
 
 ## Combined
  - [DDD/CQRS/ES/Architecture videos](https://gist.github.com/SzymonPobiega/5220595)
