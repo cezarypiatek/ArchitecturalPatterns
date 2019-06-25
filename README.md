@@ -13,6 +13,7 @@
 ## DDD
 - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
 - [Designing Aggregates](http://practical-ddd.blogspot.co.uk/2012/07/designing-aggregates.html)
+- [All our Aggregates are Wrong - Demos](https://github.com/mauroservienti/all-our-aggregates-are-wrong-demos)
 - [Domain Driven Design oriented application framework, meets CRUD needs](https://github.com/stoveproject/Stove)
 - [The Two Sides of Domain-Driven Design (DDD)](https://www.diffen.com/difference/Strategy_vs_Tactic)
 - [DDD Strategic Patterns: How To Define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
